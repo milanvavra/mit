@@ -1,0 +1,3 @@
+SqliteReference class
+	instanceVariableNames: ''
+!

@@ -1,0 +1,3 @@
+SqliteResultBuffer class
+	instanceVariableNames: ''
+!

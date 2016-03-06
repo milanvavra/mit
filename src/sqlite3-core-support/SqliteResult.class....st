@@ -1,0 +1,3 @@
+SqliteResult class
+	instanceVariableNames: ''
+!

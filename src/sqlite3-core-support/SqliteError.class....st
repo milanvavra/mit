@@ -1,0 +1,3 @@
+SqliteError class
+	instanceVariableNames: ''
+!

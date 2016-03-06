@@ -1,0 +1,6 @@
+ExternalStructure subclass: #SqliteError
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'SQLite3-Core-Support'
+!

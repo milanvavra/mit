@@ -1,0 +1,3 @@
+SQLiteRecord class
+	instanceVariableNames: ''
+!

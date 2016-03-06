@@ -1,0 +1,3 @@
+SqliteLibrary class
+	instanceVariableNames: 'default'
+!

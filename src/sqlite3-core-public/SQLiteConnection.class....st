@@ -1,0 +1,3 @@
+SQLiteConnection class
+	instanceVariableNames: 'registry'
+!
