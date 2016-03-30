@@ -1,5 +1,6 @@
-!SQLiteConnection methodsFor: 'private' stamp: 'tbn 1/25/2010 19:58'!
+!SQLiteConnection methodsFor: 'private' stamp: 'mva 3/27/2016 03:15'!
 open
 	reference := SqliteLibrary default open: fileName.
 	self register.
+	^reference
 ! !

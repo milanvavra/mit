@@ -1,4 +1,4 @@
-!SqliteResult methodsFor: 'reading' stamp: 'tbn 1/25/2010 20:48'!
+!SqliteResult methodsFor: 'reading' stamp: 'mva 3/6/2016 03:56'!
 readStringAtAddress: anAddress
 	|deref i char|
 	deref := anAddress pointerAt: 1.
@@ -8,6 +8,6 @@ readStringAtAddress: anAddress
 		i := 1.
 		[(char _ deref unsignedCharAt: i) asciiValue = 0]
 			whileFalse:
-				[stream nextPut: char basicSqueakToIso.
+				[stream nextPut: char.
 				 i := i + 1]]
 ! !
